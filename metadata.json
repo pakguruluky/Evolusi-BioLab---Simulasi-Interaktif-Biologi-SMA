@@ -1,0 +1,6 @@
+{
+  "name": "Evolusi BioLab - Simulasi Interaktif Biologi SMA",
+  "description": "Aplikasi simulasi interaktif evolusi biologi SMA meliputi teori Lamarck, Darwin, Weismann, seleksi alam, spesiasi, dan Hukum Hardy-Weinberg dilengkapi LKPD digital cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
